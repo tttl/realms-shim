@@ -2,7 +2,7 @@
   "name": "realms-shim",
   "version": "1.2.3-dev.0",
   "description": "Spec-compliant shim for Realms TC39 Proposal",
-  "main": "dist/realms-shim.cjs.js",
+  "main": "dist/realms-shim.esm.js",
   "module": "dist/realms-shim.esm.js",
   "browser": "dist/realms-shim.umd.js",
   "license": "Apache-2.0",
